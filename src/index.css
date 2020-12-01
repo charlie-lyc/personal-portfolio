@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 50%;
+    height: 70vh;
+    margin: auto;
+}
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.navbar > ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 110%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item.home {
+    flex: 5;
+}
+
+.nav-item.about {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-item.profile {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-item.contact {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-item::after {
+    color: #000;
+    content: '';
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+.nav-link {
+    text-decoration: none; 
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #45a1ff;
+}
+
+.container {
+    height: 650px;
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.headline {
+    color:#11999E;
+    font-family: 'Sacramento', cursive;
+    font-weight: bolder;
+    font-size: 4em;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 0;
+    padding-top: 100px;
+}
+
+.portrait {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+}
+
+.leave-meassage {
+    font-size: 120%;
+}
+
+a {
+    text-decoration: none; 
+    color:#11999E;
+}
+
+a:hover {
+    color:#b9b9b9;
+}
+
+.introduce {
+  padding-top: 100px;
+}
+
+.submit {
+  padding-top: 100px;
+}
+
+.social {
+  padding-top: 100px;
+}
+
+.social-link {
+    display: inline-block;
+    width: 50px;
+    margin: 0 5%;
+    border-radius: 10px;
+}
+
+.profile-image {
+    width: 450px;
+    height: auto;
+}
+
+footer {
+    display: flex;
+    padding: 5px;
+    background-color: #fff;
+    color: #000;
+    font-size: 120%;
+    text-align: center;
+    justify-content: center;
+}
+
+ /* for Hamburger Menu */
+@media (max-width: 971px) {
+   
+}
+
