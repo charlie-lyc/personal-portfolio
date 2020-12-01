@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.e526eb22.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.a2a524dd.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.a2a524dd.chunk.js.map",
+    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.d64d402c.js",
+    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.d64d402c.js.map",
+    "static/js/2.b53e9213.chunk.js": "/personal-portfolio/static/js/2.b53e9213.chunk.js",
+    "static/js/2.b53e9213.chunk.js.map": "/personal-portfolio/static/js/2.b53e9213.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "static/css/main.e526eb22.chunk.css.map": "/personal-portfolio/static/css/main.e526eb22.chunk.css.map",
+    "static/js/2.b53e9213.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.b53e9213.chunk.js.LICENSE.txt",
+    "static/media/gmail-icon.d765005c.png": "/personal-portfolio/static/media/gmail-icon.d765005c.png",
+    "static/media/profile.14db82b5.png": "/personal-portfolio/static/media/profile.14db82b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d64d402c.js",
+    "static/js/2.b53e9213.chunk.js",
+    "static/css/main.e526eb22.chunk.css",
+    "static/js/main.a2a524dd.chunk.js"
+  ]
+}
